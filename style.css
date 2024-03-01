@@ -1,0 +1,34 @@
+body {
+    margin: 0px;
+}
+
+#container {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    background-image: url(./img/nc834_stranger_things_4_wallpaper__c7mk0t.jpg);
+    justify-content: space-between;
+}
+
+#logo { 
+    width: 120px;
+    padding-left: 150px;
+}
+
+nav {
+    padding: 0 100px;
+}
+
+select { 
+    background-color: transparent;
+    color: white;
+}
+
+option {
+  background-color: gray;
+}
+
+#btn-enter {
+  background-color: red;
+  border-radius: 8px;
+}
